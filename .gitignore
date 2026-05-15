@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Vite
+dist/
